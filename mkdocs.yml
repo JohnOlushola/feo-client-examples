@@ -1,5 +1,6 @@
 site_name: FEO Client Examples
 docs_dir: feo-client-examples
+edit_uri: /blob/master/
 
 plugins:
 - search
