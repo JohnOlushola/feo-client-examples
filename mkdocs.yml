@@ -7,7 +7,7 @@ plugins:
 - mkdocs-jupyter
 
 nav:
-  - Home: index.md
+  - index.md
   - Nodes: 0_nodes.ipynb
   - Assets: 1_assets.ipynb
   - 'Technology Projections': 2_technology_projections.ipynb
